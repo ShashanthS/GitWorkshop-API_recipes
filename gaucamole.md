@@ -10,5 +10,6 @@
 # Steps
 1. Add water
 2. Add pepper
-3. Boil
+3. Add salt
+4. Boil
 
